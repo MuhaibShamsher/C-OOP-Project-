@@ -1,0 +1,15 @@
+                                        /// Project Requirments /// 
+
+                                        Kindly Use DEV-C++
+            
+              Sign in for Owner:
+ 
+   Login: 1
+   Password: 1
+
+              Register For User:
+   
+   Name        ---->  Should be one big letter and small letters only
+   Tell Number ---->  Should be 9-12 numbers only
+   Login       ---->  Your choice
+   Password    ---->  Should be at least  1 Big letter, 5 small letters, 3 Number  
